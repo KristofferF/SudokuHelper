@@ -7,4 +7,4 @@ Swedish: Har du problem med ett sudoku? Då har detta programmet lösningen för
 
 Programmerat är skapat i C++ i Visual studio 2013. Qt designer har använts för att skapa användargränssnittet. Programmet använder en rekursiv algoritm med en så kallad "brute force" strategi.
 
-[Installeringsfil för programmet. Testat på Win7 x64](http://s000.tinyupload.com/index.php?file_id=07464501893700782274)
+[Installeringsfil för programmet. Testat på Win7 x64](http://kristofferf.node365.se/setupSudokuHelper.exe)
